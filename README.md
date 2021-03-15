@@ -18,17 +18,17 @@ My credentials include a Machine learning course from Stanford University, some 
 ## Projects:
   ### Data Science Projects (EDA/Modeling):
 
-      * **Appling Time Series Analysis to energy consumption data (Using advanced ML technics like Stacking and Ensemble methods):** https://jovian.ai/beduardo56/collections/machine-learning-for-eletrical-engineers
-      * **yuca_test: Appling M.L and E.D.A to São Paulo's house rent data:** https://jovian.ai/beduardo56/collections/yuca-test
-      * **Constructing a different clustering model:** https://github.com/Beduardo56/islandclusterclassificator
+  * **Appling Time Series Analysis to energy consumption data (Using advanced ML technics like Stacking and Ensemble methods):** https://jovian.ai/beduardo5/collections/machine-learning-for-eletrical-engineers
+  * **Appling M.L and E.D.A to São Paulo's house rent data:** https://jovian.ai/beduardo56/collections/yuca-test
+  * **Constructing a different clustering model:** https://github.com/Beduardo56/islandclusterclassificator
  
  ### Data Engineering Projects (Using software development tools):
 
-      * **Creating a MySQL Database using AWS CDK and AWS RDS to populate with covid-19 data (include COVID API):**: https://github.com/Beduardo56/projeto_engenharia_de_dados
-      * **DBT project to document SQL transformations on Covid Database:** https://github.com/Beduardo56/dbt_covid_cases
-      * **Streamlit dashboard to covid cases :** https://github.com/Beduardo56/Evolu-o_do_coronavirus
+  * **Creating a MySQL Database using AWS CDK and AWS RDS to populate with covid-19 data (include COVID API):**: https://github.com/Beduardo56/projeto_engenharia_de_dados
+  * **DBT project to document SQL transformations on Covid Database:** https://github.com/Beduardo56/dbt_covid_cases
+  * **Streamlit dashboard to covid cases :** https://github.com/Beduardo56/Evolu-o_do_coronavirus
  
  ### Unicamp Projects:
  
-      * **Appling Bissection and Newton methods to find function's zeros :** https://github.com/Beduardo56/ATIVIDADE1_MS211
-      * **Appling Range Kutta to find derivates from non-analytical functions:** https://github.com/Beduardo56/ATIVIDADE2_MS211
+  * **Appling Bissection and Newton methods to find function's zeros :** https://github.com/Beduardo56/ATIVIDADE1_MS211
+  * **Appling Range Kutta to find derivates from non-analytical functions:** https://github.com/Beduardo56/ATIVIDADE2_MS211
