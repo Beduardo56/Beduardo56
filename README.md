@@ -4,7 +4,7 @@
 <sub>*Eletrical Engineer Student* at Unicamp</sub>
 
 ## My story
-In 2018, I studied clinical maintenance systems at CEB-Unicamp, At this time I'd learned how to apply statistics to data. In 2019, I entered in Time Energy, since then I have been working with ML applied to smart meters data (from creating data lake's architecture to deploying ML models).
+In 2018, I studied clinical maintenance systems at CEB-Unicamp, At this time I'd learned how to apply statistics to data analysis. In 2019, I entered in Time Energy, since then I have been working with ML applied to smart meters data (from creating data lake's architecture to deploying ML models).
 
 My credentials include a Machine learning course from Stanford University, some courses about Python/SQL and a bootcamp that i've learned how to construct a data architecture (Lambda).
 
