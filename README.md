@@ -20,6 +20,7 @@ My credentials include a Machine learning course from Stanford University, some 
 
   * **Appling Time Series Analysis to energy consumption data (Using advanced ML technics like Stacking and Ensemble methods):** https://jovian.ai/beduardo5/collections/machine-learning-for-eletrical-engineers
   * **Appling M.L and E.D.A to São Paulo's house rent data:** https://jovian.ai/beduardo56/collections/yuca-test
+  * **Ifood Business Analyst Test: Project about customer segmentation:** https://github.com/Beduardo56/ifood_business_analyst_test
   * **Constructing a different clustering model:** https://github.com/Beduardo56/islandclusterclassificator
  
  ### Data Engineering Projects (Using software development tools):
