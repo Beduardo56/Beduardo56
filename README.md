@@ -26,7 +26,7 @@ My credentials include a Machine learning course from Stanford University, some 
  ### Data Engineering Projects (Using software development tools):
 
   * **Creating a MySQL Database using AWS CDK and AWS RDS to populate with covid-19 data (include COVID API):**: https://github.com/Beduardo56/projeto_engenharia_de_dados
-  * **Creating a miner of shopping mall store operation periods and constructing a dataset with that: **: https://github.com/Beduardo56/store_scrapper
+  * **Creating a miner of shopping mall store operation periods and constructing a dataset with that:**: https://github.com/Beduardo56/store_scrapper
   * **DBT project to document SQL transformations on Covid Database:** https://github.com/Beduardo56/dbt_covid_cases
   * **Streamlit dashboard to covid cases :** https://github.com/Beduardo56/Evolu-o_do_coronavirus
  
